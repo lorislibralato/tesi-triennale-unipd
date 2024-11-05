@@ -1,7 +1,7 @@
 // All reusable variables here
 #let myLang = "it"
-#let myName = "Nome Cognome"
-#let myMatricola = "42"
+#let myName = "Loris Libralato"
+#let myMatricola = "2068237"
 #let myTitle = "Titolo della tesi"
 #let myDegree = "Tesi di laurea"
 #let myUni = "Università degli studi di Padova"
@@ -12,5 +12,5 @@
 #let myCompany = "Nome azienda"
 #let myTutor = "Nome Cognome"
 #let myLocation = "Padova"
-#let myAA = "AAAA-AAAA"
-#let myTime = "Mese AAAA"
+#let myAA = "2024-2025"
+#let myTime = "Giugno 2025"
